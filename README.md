@@ -46,7 +46,7 @@ This will install all of the required packages we selected within the `requireme
 
 1. **Download the project**
 ```
-git clone https://github.com/AlaaMAlhazmi/Casting-Agency-App.git
+git clone https://github.com/AlaaMAlhazmi/emagazine-api.git
 ```
 
 2. From within the `backend` directory first ensure you are working using your created virtual environment.
@@ -63,8 +63,8 @@ flask run --reload
 
 ### Getting Started
 - Base URL: 
-	- The backend app is hosted locally at the default, `http://127.0.0.1:5000/`.
-	- The app is hosted on Heroku at, `https://fsnd-casting-agency-app.herokuapp.com/hello`
+	- The backend app is hosted locally at the default, `http://127.0.0.1:5000/home`.
+	- The app is hosted on Heroku at, `https://emagazine-api.herokuapp.com/home`
 - Authentication: Auth0 is used for authentication.
     Roles and Tokens:
 
