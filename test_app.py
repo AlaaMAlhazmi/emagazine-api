@@ -18,7 +18,7 @@ class EMagazineTestCase(unittest.TestCase):
         self.client = self.app.test_client
         self.database_name = "test_e_magazine_db"
         self.database_path = "postgres://{}:{}@{}/{}".format(
-            'postgres', 'twin8693', 'localhost:5432', self.database_name)
+            'postgres', 'postgres', 'localhost:5432', self.database_name)
         setup_db(self.app, self.database_path)
 
         self.new_article = {

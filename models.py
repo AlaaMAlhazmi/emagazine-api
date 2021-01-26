@@ -5,7 +5,7 @@ import json
 
 database_name = "e_magazine_db"
 database_path = "postgresql://{}:{}@{}/{}".format(
-    'postgres', 'twin8693', 'localhost:5432', database_name)
+    'postgres', 'postgres', 'localhost:5432', database_name)
 db = SQLAlchemy()
 
 '''
