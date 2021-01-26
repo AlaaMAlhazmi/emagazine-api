@@ -22,7 +22,7 @@ The skills include: Relational Database Architecture, Modeling Data Objects with
 
 ## Project Overview
 
-The E_magazine API is a abckend app that simplify and streamline the process of creating and managing articles and authors. The API allows Editors and Directors to get, post, update, search and delete articles and authors.
+The E_magazine API is a abckend app that simplify and streamline the process of creating and managing magazine's articles and authors. The API allows Editors and Directors to get, post, update, search and delete articles and authors.
 
 ## Installing Dependencies
 
